@@ -37,5 +37,12 @@
         "prettier": "^2.6.2",
         "ts-jest": "^28.0.3",
         "typescript": "^4.7.2"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JasparGupta/next-api-router.git"
     }
 }
