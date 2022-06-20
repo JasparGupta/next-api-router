@@ -2,6 +2,8 @@
 
 The motivation for this package was basically the want to write NextJS API routes more declaratively with a means to easily supply a pipeline of middleware.
 
+_Note: This was created primarily for personal use, don't expect active maintenance. By all means fork/open PR's, just manage your expectations_ ❤️ 
+
 ## Installation
 
 Create/add registry scope to your `.npmrc` file.
